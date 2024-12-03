@@ -1,6 +1,5 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-Реалізація SearchDropdown з допомогою Livewire та використання API The Movie Database (TMDb)
 Мета проекту:
 Основною метою проекту є використання API для інтеграції з зовнішнім сервісом — The Movie Database (TMDb), що дозволяє отримувати актуальні дані про фільми, акторів та інші медіа-об'єкти. Завдяки використанню Livewire було реалізовано SearchDropdown, який динамічно взаємодіє з API, надаючи користувачу можливість швидко і ефективно здійснювати пошук без необхідності перезавантаження сторінки.
 
