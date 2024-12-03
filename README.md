@@ -2,6 +2,15 @@
 
 Мета проекту:
 Основною метою проекту є використання API для інтеграції з зовнішнім сервісом — The Movie Database (TMDb), що дозволяє отримувати актуальні дані про фільми, акторів та інші медіа-об'єкти. Завдяки використанню Livewire було реалізовано SearchDropdown, який динамічно взаємодіє з API, надаючи користувачу можливість швидко і ефективно здійснювати пошук без необхідності перезавантаження сторінки.
+![movie1](https://github.com/user-attachments/assets/5e90951f-8837-4a7e-93e4-f164f4307bba)
+![movie2](https://github.com/user-attachments/assets/762aa3db-5d2f-4e38-b192-eebf46291d70)
+![movie3](https://github.com/user-attachments/assets/40086402-096e-4a18-98a8-93b3d1c06c59)
+![movie4](https://github.com/user-attachments/assets/5db4a15f-098b-451d-b5f4-f22c72409d7e)
+![movie5](https://github.com/user-attachments/assets/5f626d05-b158-4e7c-995c-c209f58332f9)
+![movie6](https://github.com/user-attachments/assets/9dcf7a5d-b1cd-4724-9763-4ddd5614a287)
+![movie7](https://github.com/user-attachments/assets/9621f9ac-dff3-41d4-a12c-205c48f1b79c)
+![movie8](https://github.com/user-attachments/assets/15468d19-23ae-426f-af09-a8db0639ffa8)
+
 
 Ключові технології:
 
